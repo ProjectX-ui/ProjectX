@@ -4,10 +4,7 @@
 Здесь вы можете получить доступ к инструментам мониторинга и управления.
 
 ## 🤖 Запустить бота
-Нажмите на кнопку ниже, чтобы перейти в Telegram и получить актуальную версию:
-
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)](https://t.me/@rcpcfilebot)
-
+Запустить бота: [@@rcpcfilebot](https://t.me/@rcpcfilebot)
 ---
 
 ### 🛠 Основные возможности:
